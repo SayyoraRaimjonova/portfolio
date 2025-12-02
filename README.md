@@ -26,9 +26,6 @@ This project was made to practice:
 - organizing information cleanly  
 - building confidence in programming  
 
-## 📸 Screenshot (Optional)
-You can add a screenshot of your site here later.
-
 ## 📬 Contact
 You can reach me through:
 - Email: sraimjonova@my.nl.edu  
